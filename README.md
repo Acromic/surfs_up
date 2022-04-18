@@ -19,6 +19,7 @@ don't seem to be a huge factor. Even when breaking down the percentiles.
 * 25% = 73(J) and 69(D)
 * 50% = 75(J) and 71(D)
 * 75% = 77(J) and 74(D)
+
 The data currently isn't substantial enough to say that the surf and ice cream shop couldn't be sustainable
 for June and December. For further analysis maybe check the hottest time of year vs coldest time of year.
 For further analysis maybe check the hottest time of year vs coldest time of year.
