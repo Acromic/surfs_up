@@ -9,6 +9,9 @@ sure that surf and ice cream shop is sustainable year-round.
 * The mean temperature between June (74.94) and December (71.04) was 72.99
 * The minimum temperature in June was 64.00 and minimum for December was 56.00 for a difference of 8.00.
 * The maximum temperature in June was 85.00 and maximum for December was 83.00 for a difference of 2.00.
+### June/December
+![June Temps](https://github.com/Acromic/surfs_up/blob/main/Resources/June%20Temperatures.png)/![June Temps](https://github.com/Acromic/surfs_up/blob/main/Resources/December%20Temperatures.png)
+
 
 ## Summary
 With data provided for the start of the hot month of June and cold month of December, the temperatures
