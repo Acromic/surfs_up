@@ -24,4 +24,4 @@ The data currently isn't substantial enough to say that the surf and ice cream s
 for June and December. Id also compare and check the hottest time of year vs coldest time of year.
 I'd also recommend checking the busiest time of year compared to the slowest. If you don't have enough
 people there visiting the surf and ice cream shop thru the year that could have more impact than the weather.
-Depending on the data it could be more benificial to have it open season vs. all year long
+Depending on the data it could be more benificial to have it open seasonal vs. all year long
