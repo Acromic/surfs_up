@@ -21,7 +21,7 @@ don't seem to be a huge factor. Even when breaking down the percentiles.
 * 75% = 77(J) and 74(D)
 
 The data currently isn't substantial enough to say that the surf and ice cream shop couldn't be sustainable
-for June and December. For further analysis maybe check the hottest time of year vs coldest time of year.
-For further analysis maybe check the hottest time of year vs coldest time of year.
+for June and December. Id also compare and check the hottest time of year vs coldest time of year.
 I'd also recommend checking the busiest time of year compared to the slowest. If you don't have enough
-people there visiting the surf and ice cream shop that could impact success more than the weather.
+people there visiting the surf and ice cream shop thru the year that could have more impact than the weather.
+Depending on the data it could be more benificial to have it open season vs. all year long
